@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python-Nantes</title><link href="http://python-nantes.github.io/" rel="alternate"></link><link href="http://python-nantes.github.io/feeds/evenements.atom.xml" rel="self"></link><id>http://python-nantes.github.io/</id><updated>2014-08-01T00:00:00+02:00</updated><entry><title>Fin des vacances, Nantes se replonge dans Python :)</title><link href="http://python-nantes.github.io/fin-des-vacances-nantes-se-replonge-dans-python.html" rel="alternate"></link><updated>2014-08-01T00:00:00+02:00</updated><author><name>Florent Lebreton</name></author><id>tag:python-nantes.github.io,2014-08-01:fin-des-vacances-nantes-se-replonge-dans-python.html</id><summary type="html">&lt;p&gt;Tout le monde est bien reposé, il est de temps de se replonger dans le bain. Rien de tel qu'un meetup de rentrée !&lt;/p&gt;
+&lt;p&gt;Deux sujets de présentations vous seront proposés:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;« Introduction à Django, le framework de développement web pour les perfectionnistes sous pression. »&lt;/li&gt;
+&lt;li&gt;« Écrire du code python selon les règles de l’art. »&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;La suite du meetup et de la soirée nous laissera le temps de discuter librement et d'aller boire un verre pour profiter de cette fin de période estivale.&lt;/p&gt;
+&lt;p&gt;Que vous soyez experts Python, débutants ou simplement curieux de découvrir ce langage, nous serons heureux de vous compter parmis nous !&lt;/p&gt;
+&lt;p&gt;L'évènement est publié sur le site de la Cantine: &lt;a class="reference external" href="http://cantine.atlantic2.org/evenements/meetup-python-4/"&gt;Meetup Python #4&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;À bientôt, et en attendant ... respectez la PEP8 :)&lt;/p&gt;
+</summary><category term="python"></category><category term="django"></category><category term="nantes"></category></entry></feed>
